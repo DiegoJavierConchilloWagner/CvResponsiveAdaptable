@@ -43,7 +43,9 @@
 html{
   scroll-behavior: smooth;
 }
-
+body {
+	font-family: 'Poppins', sans-serif;
+}
 /*========== Variables Dark theme ==========*/
 body.dark-theme{
   --title-color: #f2f2f2;
